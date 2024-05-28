@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 My Name Is
 
     Abraham Maiko King'oo
-
-- 🌱 I’m currently learning
--      Go language
+ 
+ 🌱 I’m currently learning
+     
+     Go language
 
 About Me
 
