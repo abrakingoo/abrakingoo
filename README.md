@@ -21,15 +21,12 @@ Here are some ideas to get you started:
 
 About Me
 
-I an Currently a Full Stack Software Engineer Apprentice at Zone01 Kisumu. My Main Intreset Is In Full stack Software Engineering.
+    I an Currently a Full Stack Software Engineer Apprentice at Zone01 Kisumu. My Main Intreset Is In Full stack Software Engineering.
 
 Skills
 
-Highlight your skills or technologies you're proficient in.
-
     Programming Languages: [c, Go, JavaScript, PHP, Python]
     Frameworks/Libraries: [Nodejs, Express, Flask]
-Contact:
+Contact
+
     Email: [maikoabraham68@gmail.com]
-    LinkedIn: [Your LinkedIn Profile Link]
-    Twitter: [Your Twitter Profile Link]
