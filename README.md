@@ -29,18 +29,7 @@ Highlight your skills or technologies you're proficient in.
 
     Programming Languages: [c, Go, JavaScript, PHP, Python]
     Frameworks/Libraries: [Nodejs, Express, Flask]
-
-GitHub Activity
-
-Display your GitHub activity using badges and graphs.
-Stats
-
-Top Languages
-
-Contact Me
-
-Provide ways for visitors to get in touch with you.
-
+Contact:
     Email: [maikoabraham68@gmail.com]
     LinkedIn: [Your LinkedIn Profile Link]
     Twitter: [Your Twitter Profile Link]
