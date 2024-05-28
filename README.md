@@ -24,7 +24,7 @@ My Name Is
 
 About Me
 
-    I an Currently a Full Stack Software Engineer Apprentice at Zone01 Kisumu. My Main Intreset Is In Full stack Software Engineering.
+    I am Currently a Full Stack Software Engineer Apprentice at Zone01 Kisumu. My Main Intereset Is In Full stack Software Engineering.
 
 Skills
 
