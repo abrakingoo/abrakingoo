@@ -15,25 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Your Name]
+[My Name Is Abraham Maiko Kingoo]
+
+- 🌱 I’m currently learning Go language
+
 About Me
 
-Briefly introduce yourself. Mention your areas of interest, expertise, or anything you're passionate about related to your work.
-Projects
-
-List some of your notable projects here. Include a brief description and link to each project repository.
-
-    Project Name: Description of the project. Link
-    Project Name: Description of the project. Link
-    Project Name: Description of the project. Link
+I an Currently a Full Stack Software Engineer Apprentice at Zone01 Kisumu. My Main Intreset Is In Full stack Software Engineering.
 
 Skills
 
 Highlight your skills or technologies you're proficient in.
 
-    Programming Languages: [List languages]
-    Frameworks/Libraries: [List frameworks/libraries]
-    Tools/Technologies: [List tools/technologies]
+    Programming Languages: [c, Go, JavaScript, PHP, Python]
+    Frameworks/Libraries: [Nodejs, Express, Flask]
 
 GitHub Activity
 
@@ -46,13 +41,6 @@ Contact Me
 
 Provide ways for visitors to get in touch with you.
 
-    Email: [Your Email Address]
+    Email: [maikoabraham68@gmail.com]
     LinkedIn: [Your LinkedIn Profile Link]
     Twitter: [Your Twitter Profile Link]
-
-Contributions
-
-If you contribute to open-source projects or have a presence in any community, mention it here.
-Blog
-
-If you have a blog or write articles, you can mention it here.
