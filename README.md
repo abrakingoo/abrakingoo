@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My Name Is
 
-[My Name Is Abraham Maiko Kingoo]
+    Abraham Maiko King'oo
 
 - 🌱 I’m currently learning Go language
 
