@@ -20,7 +20,7 @@ My Name Is
  
  🌱 I’m currently learning
      
-     Go language
+     Java language
 
 About Me
 
