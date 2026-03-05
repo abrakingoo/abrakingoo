@@ -28,8 +28,8 @@ About Me
 
 Skills
 
-    Programming Languages: [c, Go, JavaScript, PHP, Python, Java, SpringBoot, Ruby on Rails]
-    Frameworks/Libraries: [Nodejs, Express, Flask]
+    Programming Languages: [c, Go, JavaScript, PHP, Python, Java, Ruby]
+    Frameworks/Libraries: [Nodejs, Express, Flask, SpringBoot, Ruby on Rails, Angular]
 Contact
 
     Email: maikoabraham68@gmail.com
