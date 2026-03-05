@@ -24,7 +24,7 @@ My Name Is
 
 About Me
 
-    I am Currently a Full Stack Software Engineer Apprentice at Zone01 Kisumu. My Main Intereset Is In Full stack Software Engineering.
+   I’m a full-stack software engineer with a strong focus on backend systems and scalable architecture. I enjoy designing and building high-performance applications, paying close attention to clean code, efficient data modeling, and well-structured APIs. While backend engineering is where I’m most comfortable, I also work confidently across the frontend to deliver complete, end-to-end solutions. I’m motivated by solving complex problems and continuously refining the way systems are designed, built, and improved over time.
 
 Skills
 
