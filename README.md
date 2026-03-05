@@ -32,5 +32,4 @@ Skills
     Frameworks/Libraries: [Nodejs, Express, Flask]
 Contact
 
-    Email: [maikoabraham68@gmail.com]
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrakingoo&show_icons=true)
+    Email: maikoabraham68@gmail.com
