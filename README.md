@@ -41,5 +41,5 @@ Java — deepening my knowledge of Spring Boot and backend architecture patterns
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abraham--kingoo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-kingoo-6b3464252)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abrakingoo.github.io-000000?style=flat&logo=github&logoColor=white)](https://abrakingoo.github.io)
 [![Email](https://img.shields.io/badge/Email-maikoabraham68@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maikoabraham68@gmail.com)
