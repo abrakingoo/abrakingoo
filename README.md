@@ -29,11 +29,6 @@ Full-stack software engineer with a strong focus on backend systems and scalable
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrakingoo&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrakingoo&layout=compact&hide_border=true&cache_seconds=1800" height="160"/>
-</p>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrakingoo&hide_border=true" height="160"/>
 
 ---
