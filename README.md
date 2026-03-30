@@ -33,12 +33,6 @@ Full-stack software engineer with a strong focus on backend systems and scalable
 
 ---
 
-## 🌱 Currently Learning
-
-Java — deepening my knowledge of Spring Boot and backend architecture patterns.
-
----
-
 ## 📫 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abrakingoo.github.io-000000?style=flat&logo=github&logoColor=white)](https://abrakingoo.github.io)
