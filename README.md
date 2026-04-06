@@ -1,4 +1,4 @@
-# Hi, I'm Abraham Maiko King'oo 👋
+# Hi, I'm Abraham Maiko King'oo
 
 Full-stack software engineer with a strong focus on backend systems and scalable architecture. I enjoy building high-performance applications with clean code, efficient data modeling, and well-structured APIs.
 
